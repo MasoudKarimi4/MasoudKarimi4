@@ -3,4 +3,3 @@
 
 Computer Science student @ uOttawa
 
-[My Leetcode Account](https://leetcode.com/MasoudK4/)
