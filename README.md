@@ -3,6 +3,6 @@
 
 Computer Science student @ uOttawa
 
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,figma,cpp,css,express,flask,git,github,html,js,mongodb,nextjs,netlify,pytorch,react,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,figma,cpp,css,express,flask,git,github,html,js,mongodb,nextjs,netlify,pytorch,react,vscode&theme=dark)](https://skillicons.dev)
 
 
