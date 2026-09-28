@@ -3,7 +3,7 @@
 ## Hi, I'm Masoud 👋
 I'm a Computer Science graduate from the University of Ottawa with experience across machine learning, data science, software engineering. I like working on problems where ML has a practical use, especially in biomedical and scientific settings.
 
-I've worked on deep learning with cancer RNA-seq data, including model evaluation, feature selection, and interpretability. On the industry side, I've worked at Ericsson in software test development and applied ML, building Python-based pipelines, computer vision workflows, model experimentation tools, and cloud/MLOps infrastructure for hosting and deploying models. I've also worked in data analytics, building ETL workflows, automations, SQL analyses, and dashboards.
+I've worked on deep learning with cancer RNA-seq data, including model evaluation, feature selection, and interpretability. On the industry side, I've worked in software test development and applied ML, building Python-based pipelines, computer vision workflows, model experimentation tools, and cloud/MLOps infrastructure for hosting and deploying models. I've also worked in data analytics, building ETL workflows, automations, SQL analyses, and dashboards.
 
 I enjoy working at the intersection of machine learning research and practical engineering, from experimenting with models and evaluating their behavior to building reproducible pipelines that make those models easier to use and maintain.
 ### Interests
